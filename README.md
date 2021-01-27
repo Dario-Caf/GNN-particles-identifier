@@ -1,2 +1,2 @@
-# new-particles-identifier
+# GNN-particles-identifier
 Work in progress
