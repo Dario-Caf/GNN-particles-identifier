@@ -4,5 +4,11 @@ Module's documentation
 module names
 ------------
 
-.. automodule:: Particles_identifier.module1.py
+.. automodule:: Jet_identifier.module1
+   :members:
+
+Tests names
+-----------
+
+.. automodule:: Tests.test_basic
    :members:
