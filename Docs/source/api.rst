@@ -1,13 +1,13 @@
 Module's documentation
 ======================
 
-module names
+Module names
 ------------
 
 .. automodule:: Jet_identifier.module1
    :members:
 
-Tests names
+Test names
 -----------
 
 .. automodule:: Tests.test_basic
