@@ -1,6 +1,6 @@
-Jets identifier with GNN
-=============================
+Jet identifier with GNN
+=======================
 
-[![Build Status](https://travis-ci.com/Dario-Caf/GNN-particles-identifier.svg?branch=main)](https://travis-ci.com/Dario-Caf/GNN-particles-identifier)
+[![Build Status](https://travis-ci.com/Dario-Caf/Jet-identifier-GNN.svg?branch=main)](https://travis-ci.com/Dario-Caf/Jet-identifier-GNN)
 
 Work in progress.
